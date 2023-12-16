@@ -87,7 +87,7 @@ Whether you are a farmer, researcher, or simply passionate about agriculture, ou
           </button>
         </div>
 
-        <div className='photogallary'>
+        {/* <div className='photogallary'>
           <div className='photoGrid'>
             <div className='photo'>
               <div className='photoImage'>
@@ -115,7 +115,7 @@ Whether you are a farmer, researcher, or simply passionate about agriculture, ou
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );

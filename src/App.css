@@ -64,6 +64,14 @@ align-items: center;
 .radio{
   width: 100%;
   height: 400px;
+  display: flex;
+  align-items: center;
+  background-color: white;
+}
+.radio img{
+    height: auto;
+    width: 230px;
+    margin: auto;
 }
 .time{
   text-transform: lowercase;
@@ -918,6 +926,7 @@ align-items: center;
   }
 }
 @media(max-width:470px){
+
   .nav{
   display: flex;
   justify-content: space-between;
@@ -1397,6 +1406,34 @@ align-items: center;
 .contact{
   width: 99%;
   margin: auto;
+}
+
+.govt{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 30px;
+  overflow-x: scroll;
+}
+
+.govtChair{
+  border: 1px solid black;
+  background-color: black;
+    width: auto;
+  height: 205px;
+}
+.govt img{
+  width: auto;
+  height: 205px;
+}
+
+.radio img{
+    height: auto;
+    width: 130px;
+    margin: auto;
+}
+.pocastImg img{
+  width: '100px';
+ height: 'auto' 
 }
 
 /* footer section */

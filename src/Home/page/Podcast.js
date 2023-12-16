@@ -15,8 +15,8 @@ function Podcast() {
       <Nav />
       <div className='podcast' style={podcast}>
         <img
-          src='podcastbg.png'
-          style={{ width: '300px', height: 'auto' }}
+          src='favicon.ico'
+          style={{ width: '200px', height: 'auto' }}
           alt=''
         />
       </div>

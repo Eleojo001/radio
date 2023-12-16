@@ -16,7 +16,7 @@ function Footer() {
 
       <div className='footerContainer'>
         <div className='footLogo'>
-          <h1 className='headersFont' >Himma Policy</h1>
+          <h1 className='headersFont' >Wase Rock</h1>
           <div className='privacyMedia'>
             <div className='privacy'>
               <li>Privacy Policy</li>
@@ -80,8 +80,7 @@ function Footer() {
         <div className='otherStation'>
           <h1 className='headersFont' >Address</h1>
           <li>
-            IKRA Multimedia Limited Km 25 <br /> Agalawa-Kafin Agur <br /> Along
-            Madobi Road - Kano State
+            Plateau, Jos
           </li>
           {/* <li>+234 81 515 3780</li> */}
           {/* <li>+234 81 515 3780</li> */}

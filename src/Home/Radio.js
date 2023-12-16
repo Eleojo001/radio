@@ -32,7 +32,7 @@ function Radio() {
                 On Air:
               </span>
               <span style={{ fontWeight: 'lighter', marginLeft: '10px' }}>
-                Hatsi
+                Sirin Noma
               </span>
             </h4>
           </div>
@@ -71,7 +71,7 @@ function Radio() {
               >
                 On Air:
               </span>
-              <span>Hatsi</span>
+              <span>Sirin Noma</span>
             </h4>
             <h4 style={{ display: 'flex', flexDirection: 'column' }}>
               <span
@@ -92,13 +92,14 @@ function Radio() {
       </div>
 
       <div className='radio'>
-        <iframe
+        {/* <iframe
           src='https://zeno.fm/player/himma-radio-91-1fm'
           width='100%'
           height='100%'
           frameborder='0'
           scrolling='no'
-        ></iframe>
+        ></iframe> */}
+        <img src='/wasefmlogo.png' alt='' />
       </div>
     </div>
   );
