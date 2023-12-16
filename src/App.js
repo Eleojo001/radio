@@ -145,10 +145,8 @@ However, despite these challenges which can be found in many countries throughou
   const [Television, setTelevision] = useState([
     {
       id: '1',
-      title:
-        'ENJOY VALUE FOR MONEY AND HASSLE FREE GROCERIES & FRESH FARM PRODUCTS ON SARMAN FARMS MOBILE APP',
-      content:
-        '',
+      title: 'Angas traditional dancers of Plateau state. #asharuwa',
+      content: '',
       url: 'https://www.youtube.com/@HimmaTV261',
     },
     // {
@@ -220,7 +218,7 @@ However, despite these challenges which can be found in many countries throughou
             <Route path='/contact' element={<Contact />} />
             <Route path='/news' element={<NavNews />} />
             <Route path='/presenters' element={<NavPresenters />} />
-            <Route path='/Himma-tv' element={<NavTv />} />
+            <Route path='/waserock-tv' element={<NavTv />} />
             <Route path='/programmes' element={<NavShows />} />
             <Route path='/podcast' element={<Podcast />} />
             <Route path='*' element={<NoteFound />} />

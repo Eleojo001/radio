@@ -63,7 +63,7 @@ useEffect( () => {
       <nav className='nav' style={navContainer}>
         <Link to={'/'} className='nav_brand'>
           <img
-            src='favicon.ico'
+            src='/favicon.ico'
             alt=''
             style={logoStyle}
             className='logostyle'
@@ -81,7 +81,7 @@ useEffect( () => {
             </Link>
           </li>
           <li className='nav_item'>
-            <Link className='nav_link' to={'/Himma-tv'}>
+            <Link className='nav_link' to={'/waserock-tv'}>
               TV
             </Link>
           </li>
@@ -126,7 +126,7 @@ useEffect( () => {
             Radio
           </Link>
         </li>
-        <Link className='nav_link' to={'/Himma-tv'}>
+        <Link className='nav_link' to={'/waserock-tv'}>
           <li className='nav_item'>TV</li>
         </Link>
         <Link className='nav_link' to={'/news'}>

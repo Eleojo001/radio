@@ -29,8 +29,10 @@ Whether you are a farmer, researcher, or simply passionate about agriculture, ou
         <h1 className='headersFont'>About Us</h1>
         <p className='about-content'>
           <div className="govt">
+            <div className="govtholder">
             <div className="govtImg"><img src="/govt.jpeg" alt="" /></div>
             <div className="govtChair"></div>
+            </div>
           </div>
           <p style={{ fontSize: '16px', lineHeight: '1.5' }}>
             Wase Rock Broadcasting Service is a diversified broadcasting

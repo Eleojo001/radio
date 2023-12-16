@@ -90,7 +90,7 @@ function NavTv() {
                       <iframe
                         width='100%'
                         height='100%'
-                        src='https://www.youtube.com/embed/94Ie-7K3QS8?si=XZDINIjkYArigGTI'
+                        src='https://www.youtube.com/embed/kA_FQcXt6tc?si=O0gSafaIbVM_J0-5'
                         title='YouTube video player'
                         frameborder='0'
                         allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share'
