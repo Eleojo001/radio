@@ -80,7 +80,7 @@ function Footer() {
         <div className='otherStation'>
           <h1 className='headersFont' >Address</h1>
           <li>
-            Plateau, Jos
+            Plateau, Jos.
           </li>
           {/* <li>+234 81 515 3780</li> */}
           {/* <li>+234 81 515 3780</li> */}
